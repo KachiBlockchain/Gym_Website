@@ -206,5 +206,5 @@ export const join = {
 
 export const footer = {
   logo: Logo,
-  copyrightText: 'All rights reserved. Gymme 2023. KACHI',
+  copyrightText: `All rights reserved. Gymme 2023.  <a href="https://codecrafthub.tech"> CodeCraftHub </a>`,
 };
