@@ -17,7 +17,7 @@ const Footer = () => {
           <img src={logo} alt="" />
         </a>
         {/* copyright text */}
-        <p className="text-neutral-300 text-sm">{copyrightText}</p>
+        <p className="text-neutral-300 text-sm">{copyrightText} - <a href="https://codecrafthub.tech"> CodeCraftHub </a></p>
       </div>
     </footer>
   );
